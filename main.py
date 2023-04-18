@@ -33,7 +33,7 @@ def generate_hashtags(inp):
 
 
 st.title('Hashtag Generator')
-st.subheader('Boilerplate for Co:here, Streamlit, Streamlit Cloud')
+st.subheader('Boilerplate for AI21, Streamlit, Streamlit Cloud')
 st.write('''This is a simple **Streamlit** app that generates hashtags from a small Post title caption.''')
 
 inp = st.text_area('Enter your post title caption here', height=100)
