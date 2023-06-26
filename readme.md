@@ -18,10 +18,13 @@ https://github.com/lablab-ai/ai21-streamlit-boilerplate
 cd ai21-streamlit-boilerplate
 ```
 
+## Create virtual environment
+
+
 ## Install dependencies
 
 ```
-pip install -U ai21 streamlit
+pip install -U ai21 streamlit python-dotenv
 ```
 
 ## Run the Application
